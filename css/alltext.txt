@@ -1,0 +1,133 @@
+~~~~~~~~~~~~~~~ Title  ~~~~~~~~~~~~~~~
+Portfolio || TailwindCSS Website
+
+~~~~~~~~~~~~~~~ Navbar ~~~~~~~~~~~~~~~
+Services | Works | Resume | Skills | Blogs | Contact | Hire Me!
+
+~~~~~~~~~~~~~~~ Hero Section ~~~~~~~~~~~~~~~
+hi
+I am William
+Web Developer +
+UX Designer
+
+I dissect intricate user experience issues to craft solutions focused on integrity, linking billions of individuals.
+
+Download CV
+Years of <br> Experience
+Project <br> Completed
+Happy <br> Clients
+Years of <br> Experience
+
+~~~~~~~~~~~~~~~ My Quality Services ~~~~~~~~~~~~~~~
+My Quality Services
+We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
+
+prompt engineering
+"I craft precise and effective prompts that unlock the full potential of AI, enabling intelligent systems to deliver accurate and insightful responses for your business needs."
+
+object oriented programming in c++
+"I design robust and scalable software solutions using object-oriented programming in C++, ensuring efficient and maintainable code that meets your complex project requirements."
+
+front-end Development
+"I create visually stunning and responsive user interfaces using HTML, CSS, Tailwind CSS, and JavaScript, delivering seamless and engaging web experiences that captivate your audience."
+
+Data analyze and ML
+"I analyze complex datasets and build powerful machine learning models to uncover valuable insights and drive data-driven decision making, enhancing your business's strategic capabilities."
+
+~~~~~~~~~~~~~~~ My Recent Works ~~~~~~~~~~~~~~~
+My Recent Works
+We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
+
+All
+UX/UI
+Branding
+Apps
+
+Design
+I analyze intricate user experience
+
+~~~~~~~~~~~~~~~ Experience & Education ~~~~~~~~~~~~~~~
+Experience
+2023
+Front-end Developer
+
+2021-2022
+HSC 
+R.K Talreja college
+
+
+2022-Present
+Computer Science Engineering
+Department of Technology, Shivaji University
+
+
+~~~~~~~~~~~~~~~ My Skills ~~~~~~~~~~~~~~~
+My Skills
+We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
+
+Data Analysis
+Data Science
+Python programming
+Pandas
+Numpy
+Scikit-Learn
+Deep learning
+Neural Networks
+Tensorflow
+Machine learning
+HTML
+CSS
+JavaScript
+
+~~~~~~~~~~~~~~~ Recent Blogs ~~~~~~~~~~~~~~~
+Recent Blogs
+We transform your ideas and desires into a distinctive web project that inspires both you and your customers.
+
+tutorial
+Oct 01, 2022
+<i class="fa-regular fa-calendar-days"></i>
+Comment (0)
+<i class="fa-regular fa-comments"></i>
+top 10 ui ux designers
+
+tips
+App Development Guides
+
+freebies
+Learn Graphic Design Free
+
+~~~~~~~~~~~~~~~ Contact ~~~~~~~~~~~~~~~
+<i class="fa-solid fa-phone"></i>
+Phone
++91 8999861659 / 9325555880
+
+<i class="fa-regular fa-envelope"></i>
+Email
+22shraddhajeurkar@gmail.com
+
+<i class="fa-solid fa-location-dot"></i>
+Address
+Kher Section, Ambarnath (E), District: Thane, pin: 421501
+
+Let’s work together!
+I create elegantly simple designs and code with passion. It's as straightforward as that!
+
+Choose a service
+Web Development
+Data Science
+Game Development
+
+send message
+
+~~~~~~~~~~~~~~~ Footer ~~~~~~~~~~~~~~~
+Services
+Works
+Resume
+Skills
+Testimonials
+Contact
+
+2024 All rights reserved by
+LightCode.
+
+<i class="fa-solid fa-arrow-up"></i>
